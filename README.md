@@ -75,6 +75,8 @@ Para cada Comando/ Feedback do seu controle, associe qual sensores/ atuadores pr
 
 ### Design (2 pts)
 
+![alt text](https://github.com/insper-classroom/23b-emb-proj-rafael)
+
 <!--
 Faca um esboco de como seria esse controle (vai ter uma etapa que terão que detalhar melhor isso).
 -->
